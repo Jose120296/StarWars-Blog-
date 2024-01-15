@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import '../../styles/home.css';
 import { Character } from '../component/Characters.jsx';
 import { Planet } from '../component/Planets.jsx';
-import { Vehicle } from '../component/Vehicles.jsx';
+import { Vehicle } from '../component/Vehicules.jsx';
 
 export const Home = () => {
   const [characters, setCharacters] = useState([]);

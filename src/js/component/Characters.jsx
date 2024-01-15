@@ -43,7 +43,7 @@ export const Character = ({ name, id }) => {
               console.log('You picked a favorite character!!');
             }}
           >
-            <i className="fa-regular fa-heart"></i>
+           <i className="fa-regular fa-heart"></i>
           </button>
         </div>
       </div>
